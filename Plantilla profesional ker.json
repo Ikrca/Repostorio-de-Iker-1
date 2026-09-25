@@ -1,0 +1,28 @@
+{
+  "datos_personales": {
+    "nombre": "Iker",
+    "apellidos": "Cortijo Avilés",
+    "email": {
+      "empresa": "iker.cortijo@alu.ceacfp.es",
+      "personal": "iker.cortijoaviles@gmail.com"
+    }
+  },
+  "experiencia_profesional": [
+    {
+      "Practicas educativas1": "Montaje de robots (Robobo)",
+      "Prácticas educativas2": "Prácticas en centro escolar PJO"
+    },
+    {},
+    {}
+  ],
+  "formacion": [
+    {
+      "centro": "CEAC FP",
+      "titulacion": "SMR, ASIR",
+      "inicio": "2024, Septiembre",
+      "final": "2028, Junio"
+    }
+  ],
+  "idiomas": ["Español", "ingles"],
+  "hobbies": ["videojuegos", "trasteo con Kali Linux", "música(Escuchar y crear)"]
+}
